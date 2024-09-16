@@ -6,7 +6,7 @@ Highly skilled software developer with over 3 years of experience in designing, 
 
 Previously, at Tata Consultancy Services, delivered robust software solutions that improved application performance by 30% and optimized system operations through efficient use of machine learning algorithms and advanced data structures. Proven track record in leading design reviews, improving code quality, and resolving critical system issues to enhance reliability and reduce incident response times. Strong understanding of cloud security practices, including OAuth, SSL, and data encryption, to ensure compliance with industry standards.
 
-#### Technical Skills: 
+## Technical Skills: 
 
 Java, Python, C++, HTML, CSS, PHP, JavaScript, React JS, Scikit-learn, TensorFlow, Flask, Django, Spring, Rest API, Hibernate, Advanced Algorithms, Data Analysis, Feature Selection, Pandas, NumPy, NLP, Regression Analysis, Matplotlib, Tableau, Power BI, Excel, Data Structures, Large-scale systems, Debugging, SQL, Oracle, MongoDB, PostgreSQL, Software Development Lifecycle, Software Architecture, Kubernetes, Web Services, Git, Jenkins, Jira, VS code, Jupyter Notebook, Jenkins, AWS, Azure, Technical documentation, Design reviews, Agile Methodologies.
 
