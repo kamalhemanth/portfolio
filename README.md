@@ -1,10 +1,13 @@
 # Software Developer 
 
-#### Technical Skills: Java, Python, C++, HTML, CSS, PHP, JavaScript, React JS, Scikit-learn, TensorFlow, Flask, Django, Spring, Rest API, Hibernate, Advanced Algorithms, Data Analysis, Feature Selection, Pandas, NumPy, NLP, Regression Analysis, Matplotlib, Tableau, Power BI, Excel, Data Structures, Large-scale systems, Debugging, SQL, Oracle, MongoDB, PostgreSQL, Software Development Lifecycle, Software Architecture, Kubernetes, Web Services, Git, Jenkins, Jira, VS code, Jupyter Notebook, Jenkins, AWS, Azure, Technical documentation, Design reviews, Agile Methodologies.
+#### Technical Skills: 
 
-## Education							       		
-- Masters in Data SCeince	| The University of Texas at Arlington (_December 2023_)	 			        		
-- Bachelor of Technology in Computer Science | Sree Venkateswara College Of Engineering, Andhra Pradesh, India (_April 2019_)
+Java, Python, C++, HTML, CSS, PHP, JavaScript, React JS, Scikit-learn, TensorFlow, Flask, Django, Spring, Rest API, Hibernate, Advanced Algorithms, Data Analysis, Feature Selection, Pandas, NumPy, NLP, Regression Analysis, Matplotlib, Tableau, Power BI, Excel, Data Structures, Large-scale systems, Debugging, SQL, Oracle, MongoDB, PostgreSQL, Software Development Lifecycle, Software Architecture, Kubernetes, Web Services, Git, Jenkins, Jira, VS code, Jupyter Notebook, Jenkins, AWS, Azure, Technical documentation, Design reviews, Agile Methodologies.
+
+## Education
+
+Masters in Data SCeince	| The University of Texas at Arlington (_December 2023_)	 			        		
+Bachelor of Technology in Computer Science | Sree Venkateswara College Of Engineering, Andhra Pradesh, India (_April 2019_)
 
 ## Work Experience
 
