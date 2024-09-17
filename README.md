@@ -36,16 +36,15 @@ Masters in Data SCeince	| The University of Texas at Arlington (_December 2023_)
 
 **Full Stack Devloper @ Tata Consultancy Service (_March 2020 - Dec 2021_)**
 
-- Developed and maintained end-to-end web applications using Java, Spring Boot, and Angular, delivering scalable solutions for various business requirements.
-- Implemented RESTful APIs and integrated them with front-end Angular components, improving performance and responsiveness by 20%.
-- Designed and developed user interfaces with Angular, optimizing for cross-browser compatibility and accessibility, which increased user engagement by 15%.
-- Utilized Spring Boot for back-end services, including data retrieval, authentication, and business logic, ensuring seamless integration with front-end applications.
+- Designed a SaaS Client and Project Management System used by 110+ clients across 20 countries, using Java 8, Spring Boot, and Angular, improving product delivery time by 15%.
+- Built reusable Angular components and optimized database queries, increasing efficiency by 40%.
+- Improved test coverage from 45% to 92% using Mockito and JUnit, ensuring high-quality code.
 - Collaborated closely with DevOps to set up CI/CD pipelines using Jenkins, Docker, and Kubernetes, improving deployment efficiency by 30%.
 - Managed MySQL and MongoDB databases, creating optimized queries and schema designs, reducing load times by 25%.
-- Enhanced application security by implementing OAuth2 and JWT-based authentication.
-- Actively participated in Agile ceremonies, contributing to sprint planning, backlog refinement, and code reviews.
-- Mentored junior developers, helping them improve their Angular and Java coding skills, resulting in a 10% reduction in code review issues.
-- Utilized Git for version control and Jira for tracking tasks and issues.
+- Implemented RESTful APIs and integrated them with front-end Angular components, improving performance and responsiveness by 20%.
+- Enhanced application security by implementing OAuth2 and JWT-based authentication, ensuring secure access across services.
+- Actively participated in Agile ceremonies, contributing to sprint planning, backlog refinement, and code reviews, improving team productivity.
+- Provided top-notch customer support by troubleshooting and resolving production incidents, resulting in a 30% decrease in customer complaints.
 
 **Java/Python Devloper @ Tata Consultancy Service (_May 2019 - March 2020_)**
 
