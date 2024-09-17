@@ -24,14 +24,14 @@ Masters in Data SCeince	| The University of Texas at Arlington (_December 2023_)
 
 **Software Developer @ Cymansys Solutions, LLC (_May 2024 - Present_)**
 
-- Developed scalable microservices using Python to manage high-volume data processing tasks on cloud infrastructure (e.g., AWS, Azure, GCP).
+- Developed scalable microservices using Python to manage high-volume data processing tasks on cloud infrastructure (e.g., AWS, Azure).
 - Automated deployment pipelines for Python-based applications using CI/CD tools (Jenkins, GitLab CI) and containerized deployments on Kubernetes or Docker.
 - Designed and implemented RESTful APIs in Python, hosted on cloud platforms (AWS Lambda, Azure Functions), ensuring low latency and high availability.
 - Optimized cloud-based data pipelines using Python with technologies like Apache Airflow or AWS Glue to automate ETL workflows and data processing.
 - Integrated cloud-native services such as AWS S3, DynamoDB, and Azure Blob Storage into Python applications for efficient data storage and retrieval.
 - Built serverless applications using Python and AWS Lambda to deliver cost-efficient, scalable solutions.
 - Monitored and managed cloud infrastructure using Python-based automation scripts with tools like AWS Boto3 SDK and Azure SDK for continuous integration and management.
-- Developed machine learning models in Python and deployed them using cloud-based platforms (e.g., AWS SageMaker, Google AI Platform).
+- Developed machine learning models in Python and deployed them using cloud-based platforms (e.g., AWS SageMaker).
 - Secured cloud-based applications by implementing OAuth, SSL, and data encryption using Python libraries, ensuring compliance with industry standards (HIPAA, GDPR).
 
 **Full Stack Devloper @ Tata Consultancy Service (_March 2020 - Dec 2021_)**
@@ -53,6 +53,10 @@ Masters in Data SCeince	| The University of Texas at Arlington (_December 2023_)
 - Implemented Java EE components with Spring Boot managing data persistence with Spring Data JPA template, resulting in a 25% improvement in database query efficiency through Redis Cache optimization.
 - Enabled users to share their travel experiences through posts with images and videos, along with a commenting system, enhancing user engagement and community interaction by 80%.
 - Created responsive and interactive front-end interfaces by integrating data-driven charts and visual elements using the Chart.js library, including a tree-like visualization of trip plans enhancing data visualization capabilities by 90%.
+- Developed, tested, and maintained robust Spring boot based applications, enhancing the overall efficiency by 30%.
+- Utilized Angular UI Framework for creating seamless user interfaces, improving user experience by 45%.
+- Worked in Agile Development methodologies, ensuring faster time-to-market and increase in productivity by 20%.
+- Managed Tomcat application server, enhancing server efficiency by 25%.
 - Deployed and managed the application on Azure App Services, ensuring reliable hosting and scalability. Utilized Jenkins for CI/CD pipelines, enhancing deployment efficiency.
 
 ## Projects
