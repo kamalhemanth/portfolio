@@ -22,7 +22,7 @@ Masters in Data SCeince	| The University of Texas at Arlington (_December 2023_)
 
 ## Work Experience
 
-**Software Developer @ Cymansys Solutions, LLC (_May 2024 - Present_)**
+**Software Engineer @ LeoDoesIt inc (_May 2024 - Present_)**
 
 - Developed scalable microservices using Python to manage high-volume data processing tasks on cloud infrastructure (e.g., AWS, Azure).
 - Automated deployment pipelines for Python-based applications using CI/CD tools (Jenkins, GitLab CI) and containerized deployments on Kubernetes or Docker.
@@ -34,7 +34,7 @@ Masters in Data SCeince	| The University of Texas at Arlington (_December 2023_)
 - Developed machine learning models in Python and deployed them using cloud-based platforms (e.g., AWS SageMaker).
 - Secured cloud-based applications by implementing OAuth, SSL, and data encryption using Python libraries, ensuring compliance with industry standards (HIPAA, GDPR).
 
-**Full Stack Devloper @ Tata Consultancy Service (_March 2020 - Dec 2021_)**
+**software engineer @ Tata Consultancy Service (_March 2020 - Dec 2021_)**
 
 - Designed a SaaS Client and Project Management System used by 110+ clients across 20 countries, using Java 8, Spring Boot, and Angular, improving product delivery time by 15%.
 - Built reusable Angular components and optimized database queries, increasing efficiency by 40%.
